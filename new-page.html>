@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link rel="stylesheet" type="text/css" href="styling.css">
+</head>
+<body>
+<h1>Isn't this page pretty cool?t</h1>
+<p>This is the story of my life. </p>
+<h2>Chapter one:. </h2>
+<p>It was difficult being a baby...</p>
+<button onclick="this.innerHTML = Date()">The time is?</button>
+</body>
+</html>
