@@ -1,6 +1,7 @@
 body {
     background-color: lightblue;
    vertical-align: middle;
+     display: table-cell;
 }
 
 h1 {
@@ -16,4 +17,11 @@ h3 {
 p {
     color: black;
     font-size: 24px;
+}
+html {
+    display: table;
+    margin: auto;
+}
+html, body {
+    height: 100%;
 }
